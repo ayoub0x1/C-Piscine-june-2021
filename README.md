@@ -6,3 +6,6 @@ This repo includes my work done during the 28 days that the swimming pool of 42,
 This experience is really great and I invite anyone who is interested in programming, even if you do not want to integrate the school, to do this intensive month. It's 1 month of intensive learning but also good times ...
 
 Here are my notes:
+
+![IMG-20210730-WA0164](https://user-images.githubusercontent.com/76871172/127680314-8269fd77-bb41-4440-839f-ef6ed005a153.jpg)
+![IMG-20210730-WA0165](https://user-images.githubusercontent.com/76871172/127680317-015b2883-6c3a-4c74-a335-516e47d935c9.jpg)
