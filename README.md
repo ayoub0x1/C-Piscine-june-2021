@@ -10,4 +10,8 @@ This experience is really great and I invite anyone who is interested in program
 <img src="https://user-images.githubusercontent.com/76871172/127680314-8269fd77-bb41-4440-839f-ef6ed005a153.jpg" width="350" height="350" >
 <img src="https://user-images.githubusercontent.com/76871172/127680317-015b2883-6c3a-4c74-a335-516e47d935c9.jpg" width="400" height="150" >
 
+# Here is my piscine state:
+[![aymoulou's 42 stats](https://badge42.herokuapp.com/api/stats/jaeskim?cursus=C%20Piscine)](https://github.com/ayoub0x1/Piscine-june-2021/README.md)
+
+
 Warning :warning: : If you are a pisciner, do not copy/paste my code, it will be a cheat and you will directly get a -42/100.
